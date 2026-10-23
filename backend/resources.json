@@ -1,0 +1,42 @@
+[
+  {
+    "id": "res-1",
+    "name": "NDRF Quick-Response Boat Unit 04",
+    "type": "Rescue Boat",
+    "agency": "NDRF",
+    "status": "DEPLOYED",
+    "capacity": "12 Victims",
+    "location": "Sector 4 Flooded Basin",
+    "assigned_incident": "LIVE-TEST-001"
+  },
+  {
+    "id": "res-2",
+    "name": "Disaster Triage Ambulance ALS-08",
+    "type": "Advanced Life Support Ambulance",
+    "agency": "Ambulance 108",
+    "status": "STANDBY",
+    "capacity": "2 Critical Patients",
+    "location": "Medical Post Beta",
+    "assigned_incident": null
+  },
+  {
+    "id": "res-3",
+    "name": "State Police Search & Rescue Team C",
+    "type": "Patrol & Evacuation Unit",
+    "agency": "Police 100",
+    "status": "EN_ROUTE",
+    "capacity": "Evacuation Escort",
+    "location": "North Bridge Intersection",
+    "assigned_incident": null
+  },
+  {
+    "id": "res-4",
+    "name": "Fire & Hazmat Rescue Tender 02",
+    "type": "Heavy Rescue Tender",
+    "agency": "Fire 101",
+    "status": "STANDBY",
+    "capacity": "Search & Hydraulic Extrication",
+    "location": "Central Fire Station",
+    "assigned_incident": null
+  }
+]

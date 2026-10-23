@@ -1,0 +1,35 @@
+[
+  {
+    "alert_id": "ALT-2026-001",
+    "title": "Severe Flash Flood Warning & Evacuation Alert",
+    "severity": "CRITICAL",
+    "category": "Flood Warning",
+    "description": "River embankment breached near Low-Lying Sector 4. High water levels rising rapidly. Residents are ordered to evacuate to designated high-ground relief centers immediately.",
+    "geo_fence": "Sector 4 & Riverfront Basin (Radius 5 km)",
+    "issued_by": "National Disaster Management Authority (NDMA)",
+    "issued_at": "2026-10-22T10:30:00Z",
+    "active": true
+  },
+  {
+    "alert_id": "ALT-2026-002",
+    "title": "Severe Cyclonic Weather & Wind Advisory",
+    "severity": "WARNING",
+    "category": "Cyclone / Wind",
+    "description": "Gale-force gusts exceeding 95 km/h predicted over next 6 hours. Stay indoors, secure loose rooftop objects, avoid standing near glass facades or live power cables.",
+    "geo_fence": "Coastal & Delta Zones",
+    "issued_by": "State Emergency Operation Center (SEOC)",
+    "issued_at": "2026-10-22T12:00:00Z",
+    "active": true
+  },
+  {
+    "alert_id": "ALT-2026-003",
+    "title": "Mobile Drinking Water & Medical Staging Ready",
+    "severity": "ADVISORY",
+    "category": "Relief Operations",
+    "description": "NDRF Medical Post Beta and Mobile Water Tankers are operational at Community Ground Alpha. Clean water distribution and trauma stabilization available.",
+    "geo_fence": "Central Relief Sector",
+    "issued_by": "District Collectorate Relief Cell",
+    "issued_at": "2026-10-22T14:15:00Z",
+    "active": true
+  }
+]

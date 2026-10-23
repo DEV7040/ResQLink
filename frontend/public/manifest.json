@@ -1,0 +1,19 @@
+{
+  "name": "ResQLink — Offline Emergency Assistant",
+  "short_name": "ResQLink",
+  "description": "Offline-First Emergency Assistant for Low-Connectivity Disaster Areas. Triage guides, offline SOS queue, and GPS broadcast.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#090d16",
+  "theme_color": "#b91c1c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

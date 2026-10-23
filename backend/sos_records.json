@@ -1,0 +1,207 @@
+[
+  {
+    "report_id": "SOS-MVKSVT59-9U86",
+    "timestamp": "2026-10-23T10:01:39.405Z",
+    "emergency_type": "General Emergency",
+    "message": "Victims: 1 person.",
+    "coordinates": {
+      "latitude": 19.61422603331439,
+      "longitude": 74.18480262332052,
+      "accuracy": 135.0,
+      "altitude": null
+    },
+    "status": "SERVER_ACKNOWLEDGED",
+    "client_synced_at": null,
+    "device_info": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "battery": {
+        "supported": true,
+        "level": 76,
+        "charging": true
+      },
+      "vibrationUsed": true
+    },
+    "relayed_by_peer": false,
+    "peer_hop_count": 0,
+    "server_received_at": "2026-10-23T10:01:39.416990+00:00",
+    "server_acknowledged": true,
+    "responder_status": "PENDING",
+    "triage_priority": "MEDIUM"
+  },
+  {
+    "report_id": "SOS-MVKSVDQS-N8ZE",
+    "timestamp": "2026-10-23T10:01:19.444Z",
+    "emergency_type": "General Emergency",
+    "message": "Victims: 1 person.",
+    "coordinates": {
+      "latitude": 19.61422603331439,
+      "longitude": 74.18480262332052,
+      "accuracy": 135.0,
+      "altitude": null
+    },
+    "status": "SERVER_ACKNOWLEDGED",
+    "client_synced_at": null,
+    "device_info": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "battery": {
+        "supported": true,
+        "level": 76,
+        "charging": true
+      },
+      "vibrationUsed": true
+    },
+    "relayed_by_peer": false,
+    "peer_hop_count": 0,
+    "server_received_at": "2026-10-23T10:01:19.463800+00:00",
+    "server_acknowledged": true,
+    "responder_status": "PENDING",
+    "triage_priority": "MEDIUM"
+  },
+  {
+    "report_id": "SOS-MVKROU9O-10KC",
+    "timestamp": "2026-10-23T09:28:14.652Z",
+    "emergency_type": "General Emergency",
+    "message": "Victims: 1 person.",
+    "coordinates": {
+      "latitude": 20.3340855,
+      "longitude": 74.23788,
+      "accuracy": 500.0,
+      "altitude": null
+    },
+    "status": "SERVER_ACKNOWLEDGED",
+    "client_synced_at": null,
+    "device_info": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "battery": {
+        "supported": true,
+        "level": 78,
+        "charging": false
+      },
+      "vibrationUsed": true
+    },
+    "relayed_by_peer": false,
+    "peer_hop_count": 0,
+    "server_received_at": "2026-10-23T09:28:14.707690+00:00",
+    "server_acknowledged": true,
+    "responder_status": "PENDING",
+    "triage_priority": "MEDIUM"
+  },
+  {
+    "report_id": "SOS-MVKMQX01-1O1Z",
+    "timestamp": "2026-10-23T07:09:53.425Z",
+    "emergency_type": "General Emergency",
+    "message": "Victims: 1 person.",
+    "coordinates": {
+      "latitude": 20.0367,
+      "longitude": 73.7847,
+      "accuracy": 100000.0,
+      "altitude": null
+    },
+    "status": "SERVER_ACKNOWLEDGED",
+    "client_synced_at": null,
+    "device_info": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "battery": {
+        "supported": true,
+        "level": 79,
+        "charging": true
+      },
+      "vibrationUsed": true
+    },
+    "relayed_by_peer": false,
+    "peer_hop_count": 0,
+    "server_received_at": "2026-10-23T07:09:53.447882+00:00",
+    "server_acknowledged": true,
+    "responder_status": "PENDING",
+    "triage_priority": "MEDIUM"
+  },
+  {
+    "report_id": "SOS-MVKM0HEO-QVF6",
+    "timestamp": "2026-10-23T06:49:20.160Z",
+    "emergency_type": "General Emergency",
+    "message": "Victims: 1 person.",
+    "coordinates": {
+      "latitude": 20.0367,
+      "longitude": 73.7847,
+      "accuracy": 100000.0,
+      "altitude": null
+    },
+    "status": "SERVER_ACKNOWLEDGED",
+    "client_synced_at": null,
+    "device_info": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "battery": {
+        "supported": true,
+        "level": 79,
+        "charging": true
+      },
+      "vibrationUsed": true
+    },
+    "relayed_by_peer": false,
+    "peer_hop_count": 0,
+    "server_received_at": "2026-10-23T06:49:20.182621+00:00",
+    "server_acknowledged": true,
+    "responder_status": "PENDING",
+    "triage_priority": "MEDIUM"
+  },
+  {
+    "report_id": "SOS-MVC0ZYXC-84C7",
+    "timestamp": "2026-10-17T06:38:54.864Z",
+    "emergency_type": "General Emergency",
+    "message": "Victims: 8+ crowd.",
+    "coordinates": {
+      "latitude": 20.3191,
+      "longitude": 74.2392,
+      "accuracy": 50000.0,
+      "altitude": null
+    },
+    "status": "SERVER_ACKNOWLEDGED",
+    "client_synced_at": null,
+    "device_info": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36",
+      "battery": {
+        "supported": true,
+        "level": 58,
+        "charging": true,
+        "chargingTime": null,
+        "dischargingTime": null
+      },
+      "vibrationUsed": true
+    },
+    "relayed_by_peer": false,
+    "peer_hop_count": 0,
+    "server_received_at": "2026-10-23T06:30:38.051262+00:00",
+    "server_acknowledged": true,
+    "responder_status": "PENDING",
+    "triage_priority": "MEDIUM"
+  },
+  {
+    "report_id": "SOS-MVJMHMGP-Q2SA",
+    "timestamp": "2026-10-22T14:14:53.689Z",
+    "emergency_type": "General Emergency",
+    "message": "Victims: 1 person.",
+    "coordinates": {
+      "latitude": 19.5717431,
+      "longitude": 74.2063584,
+      "accuracy": 241.0,
+      "altitude": null
+    },
+    "status": "SERVER_ACKNOWLEDGED",
+    "client_synced_at": null,
+    "device_info": {
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Safari/537.36",
+      "battery": {
+        "supported": true,
+        "level": 76,
+        "charging": true
+      },
+      "vibrationUsed": true
+    },
+    "relayed_by_peer": false,
+    "peer_hop_count": 0,
+    "server_received_at": "2026-10-22T14:14:53.708190+00:00",
+    "server_acknowledged": true,
+    "responder_status": "PENDING",
+    "triage_priority": "MEDIUM"
+  }
+]
